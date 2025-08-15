@@ -13,7 +13,7 @@
 ---
 
 ### 🤖 FRIDAY – AI Voice Assistant
-[![FRIDAY App](demo-front.jpg)](https://drive.google.com/file/d/1MB0px0Ad6Fr7D4NvQJAu6gG7mB6tE9W-/view?usp=sharing)
+[![FRIDAY App](https://github.com/Tanmay759484/FRIDAY-AI-Voice-Assistant-App/blob/2577ce0af98905ac336aef1ccc142f0cee64d4e1/demo-front.jpg)](https://drive.google.com/file/d/1MB0px0Ad6Fr7D4NvQJAu6gG7mB6tE9W-/view?usp=sharing)
 
 🔍 **Objective**: Develop an Android-based AI assistant capable of executing app tasks, retrieving information, and conversing naturally.  
 🛠 **Tools**: Kotlin, Android Studio, BERT NLP, Google Cloud API, Firebase, TensorFlow Lite, AWS EC2  
