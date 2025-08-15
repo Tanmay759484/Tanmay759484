@@ -51,7 +51,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="Waving Hand">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=F7DC6F&center=true&vCenter=true&width=900&lines=✨+THANK+YOU+FOR+VISITING+MY+PROFILE!+✨" alt="Typing Animation">
 </p>
 
 <p align="center">
