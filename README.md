@@ -19,7 +19,8 @@
 
 **Result:** Functional AI assistant with calling, reminders, money transfer prompts, and real-time Q&A.  
 
-<img src="[demo-front.jpg](demo-front.jpg)" alt="FRIDAY App" width="400"/>  
+<img src="demo-front.jpg" alt="FRIDAY App" width="400"/>  
+
 [🎥 Watch Demo](https://drive.google.com/file/d/1MB0px0Ad6Fr7D4NvQJAu6gG7mB6tE9W-/view?usp=sharing)
 
 ---
