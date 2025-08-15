@@ -1,7 +1,19 @@
 # 👋 Hi, I’m Tanmay Manna
 
-💼 Executive at Tata Motors | 📊 Aspiring Data Scientist  
-🎓 Data Science Trainee @ Masai School | 🤖 AI/NLP Enthusiast  
+<h2 align="center">💼 Executive @ Tata Motors | 📊 Data Science Trainee @ Masai School</h2>
+
+<p align="center">
+  <b>🤖 AI/NLP Enthusiast | 🚀 Skilled in Python, SQL, Power BI, TensorFlow Lite, Android Development</b>
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanmay759484&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay759484&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+</p>
+
 
 ---
 
