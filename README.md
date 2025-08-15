@@ -1,21 +1,20 @@
 # 👋 Hi, I’m Tanmay Manna
 
-<h2 align="center">💼 Executive @ Tata Motors | 📊 Data Science Trainee @ Masai School</h2>
+<h3 align="center">💼 Executive @ Tata Motors | 📊 Data Science Trainee @ Masai School</h3>
 
 <p align="center">
-  <b>🤖 AI/NLP Enthusiast | 🚀 Skilled in Python, SQL, Power BI, TensorFlow Lite, Android Development</b>
+  🤖 AI/NLP Enthusiast · 🚀 Skilled in Python, SQL, Power BI, TensorFlow Lite, Android Development
 </p>
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanmay759484&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay759484&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>
+### 🚀 Featured Projects
 
+- **[FRIDAY – AI Voice Assistant](https://github.com/Tanmay759484/FRIDAY-AI-Voice-Assistant-App)**  
+  Android-based AI assistant with wake-word detection, BERT NLP, and offline processing.
 
----
+- **[BookMarket Analyzer](https://github.com/Tanmay759484/BookMarket-Analyzer-Web-Scraping-EDA)**  
+  Web scraping + SQL + EDA project analyzing book pricing, ratings, and categories.
 
 ## 🚀 What I Build
 - **[FRIDAY – AI Voice Assistant App](https://github.com/Tanmay759484/FRIDAY-AI-Voice-Assistant-App)**  
