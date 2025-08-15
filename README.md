@@ -61,13 +61,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanmay-manna" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2&logoWidth=30">
+    <img src="https://svg-banners.vercel.app/api?type=glitch&text1=LinkedIn&width=250&height=60&fontSize=30&color=0A66C2" alt="LinkedIn">
   </a>
   <a href="https://github.com/Tanmay759484" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=30">
+    <img src="https://svg-banners.vercel.app/api?type=glitch&text1=GitHub&width=250&height=60&fontSize=30&color=181717" alt="GitHub">
   </a>
   <a href="mailto:mtanmay1044@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836&logoWidth=30">
+    <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Email&width=250&height=60&fontSize=30&color=D14836" alt="Email">
   </a>
 </p>
 
