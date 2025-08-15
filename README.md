@@ -7,7 +7,7 @@
 
 ## 🚀 What I Build
 - **[FRIDAY – AI Voice Assistant App](https://github.com/Tanmay759484/FRIDAY-AI-Voice-Assistant-App)**  
-  Android AI assistant with wake-word detection (TensorFlow Lite), intent recognition (BERT NLP), Google Cloud Speech-to-Text, and Firebase backend.  
+  Android AI assistant with wake-word detection (TensorFlow Lite), intent recognition (BERT NLP) with AWS cloud, Google Cloud Speech-to-Text, and Firebase as android database.  
 
 - **[BookMarket Analyzer – Web Scraping & EDA](https://github.com/Tanmay759484/BookMarket-Analyzer-Web-Scraping-EDA)**  
   End-to-end data pipeline: web scraping → SQL insights → EDA visualizations.
@@ -27,6 +27,6 @@
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-manna-0b2696205/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-manna)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Tanmay759484)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:mtanmay1044@gmail.com)
