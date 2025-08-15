@@ -16,9 +16,10 @@
 **Tech:** Kotlin, Python, BERT NLP, Google Cloud API, Firebase, TensorFlow Lite, AWS EC2  
 
 **Highlights:**
-- Wake-word model reduces false triggers by 40%  
-- Hybrid offline/online processing for faster response  
-- Modular architecture for easy feature expansion  
+- 🎯 Wake-word model reduces false triggers by **40%**
+- 🗣️ Conversational and context-aware — remembers past commands for smoother interactions
+- 🌍 Location-based responses (e.g., weather, nearby places)
+- 🤝 Understands user intent with NLP, adapting to different phrasings
 
 **Result:** Functional AI assistant with calling, reminders, money transfer prompts, and real-time Q&A.  
 
@@ -31,9 +32,9 @@
 **Tech:** Python, MySQL, BeautifulSoup, pandas, matplotlib, seaborn  
 
 **Highlights:**
-- Most books priced under £30  
-- Higher price trend for 4–5 star books  
-- High stock availability across categories  
+- 💰 Most books priced under **£30**  
+- ⭐ Higher price trend for **4–5 star** books  
+- 📦 High stock availability across categories  
 
 **Result:** End-to-end pipeline from data collection to actionable insights.  
 
@@ -53,3 +54,15 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-manna)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Tanmay759484)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:mtanmay1044@gmail.com)
+
+---
+
+<p align="center">
+  <b>✨ Thank you for visiting my profile! ✨</b><br>
+  <i>Let’s connect and create something amazing together 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Thank You Animation">
+</p>
+
