@@ -51,7 +51,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=500&pause=500&color=F7DC6F&center=true&vCenter=true&width=900&lines=THANK+YOU+FOR+VISITING+MY+PROFILE!; ;THANK+YOU+FOR+VISITING+MY+PROFILE!; " alt="THANK YOU Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=500&color=F7DC6F&center=true&vCenter=true&width=1000&lines=THANK+YOU+FOR+VISITING+MY+PROFILE!; ;THANK+YOU+FOR+VISITING+MY+PROFILE!; " alt="THANK YOU Animation">
 </p>
 
 <p align="center">
@@ -68,10 +68,4 @@
   <a href="mailto:mtanmay1044@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836&logoWidth=40">
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=✨✨THANK+YOU+FOR+VISITING!✨✨;LET'S+CONNECT+AND+COLLABORATE!;OPEN+TO+EXCITING+DATA+SCIENCE+ROLES!">
 </p>
