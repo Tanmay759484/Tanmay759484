@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Tanmay Manna
 
-<h3 align="center">💼 Executive @ Tata Motors | 📊 Data Science Trainee @ Masai School</h3>
+<h3 align="left">💼 Executive @ Tata Motors | 📊 Data Science Trainee @ Masai School</h3>
 
-<p align="center">
+<p align="left">
   🤖 AI/NLP Enthusiast · 🚀 Skilled in Python, SQL, Power BI, TensorFlow Lite, Android Development
 </p>
 
