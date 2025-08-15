@@ -51,8 +51,9 @@
 ---
 
 <p align="center">
-  <b style="font-size:28px;">✨✨ THANK YOU FOR VISITING MY PROFILE! ✨✨</b><br>
-  <i style="font-size:20px;">Let’s connect and create something amazing together 🚀</i>
+  <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="28" alt="✨" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=900&color=F7A500&center=true&vCenter=true&width=900&lines=✨✨+THANK+YOU+FOR+VISITING+MY+PROFILE!+✨✨" alt="Animated Thank You" />
+  <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="28" alt="✨" />
 </p>
 
 <p align="center">
