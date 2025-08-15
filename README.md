@@ -57,12 +57,14 @@
 
 ---
 
+---
+
 <p align="center">
-  <b>✨ Thank you for visiting my profile! ✨</b><br>
-  <i>Let’s connect and create something amazing together 🚀</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=600&lines=✨+Thanks+for+visiting!+✨;Let's+connect+and+build+something+amazing!+🚀" alt="Thank You Animation" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Thank You Animation">
+  <b>📩 Reach me on:</b>  
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
