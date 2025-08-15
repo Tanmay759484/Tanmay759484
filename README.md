@@ -51,7 +51,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=500&color=F7DC6F&center=true&vCenter=true&width=1000&lines=THANK+YOU+FOR+VISITING+MY+PROFILE!; ;THANK+YOU+FOR+VISITING+MY+PROFILE!; " alt="THANK YOU Animation">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="Waving Hand">
 </p>
 
 <p align="center">
