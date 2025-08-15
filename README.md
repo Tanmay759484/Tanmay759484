@@ -8,14 +8,48 @@
 
 ---
 
-## 🚀 What I Build
-- **[FRIDAY – AI Voice Assistant App](https://github.com/Tanmay759484/FRIDAY-AI-Voice-Assistant-App)**  
-  Android AI assistant with wake-word detection (TensorFlow Lite), intent recognition (BERT NLP) with AWS cloud, Google Cloud Speech-to-Text, and Firebase as android database.  
-
-- **[BookMarket Analyzer – Web Scraping & EDA](https://github.com/Tanmay759484/BookMarket-Analyzer-Web-Scraping-EDA)**  
-  End-to-end data pipeline: web scraping → SQL insights → EDA visualizations.
+## 🚀 Featured Projects
 
 ---
+
+### 🤖 FRIDAY – AI Voice Assistant
+[![FRIDAY App](demo-front.jpg)](https://drive.google.com/file/d/1MB0px0Ad6Fr7D4NvQJAu6gG7mB6tE9W-/view?usp=sharing)
+
+🔍 **Objective**: Develop an Android-based AI assistant capable of executing app tasks, retrieving information, and conversing naturally.  
+🛠 **Tools**: Kotlin, Android Studio, BERT NLP, Google Cloud API, Firebase, TensorFlow Lite, AWS EC2  
+
+📈 **Process**:
+- Integrated **BERT** for intent recognition & dialogue management  
+- Implemented **wake-word detection** for hands-free activation  
+- Used **Google Cloud API** for accurate speech-to-text  
+- Stored user data securely in **Firebase** and enabled offline processing via **TensorFlow Lite**  
+
+💡 **Insights**:
+- Offline + online hybrid approach made response time faster than pure cloud AI  
+- Wake-word model reduced accidental triggers by **40%**  
+- Modular architecture allows easy addition of new voice commands  
+
+✅ **Result**: A fully functional AI assistant with core tasks like calling, reminders, money transfer prompts, and real-time query answering.
+
+---
+
+### 📚 BookMarket Analyzer – Web Scraping, SQL Insights & EDA
+
+🔍 **Objective**: Extract book data from [books.toscrape.com](https://books.toscrape.com/), generate insights through SQL queries, and visualize key patterns with EDA.  
+🛠 **Tools**: Python, Jupyter Notebook, MySQL, BeautifulSoup, pandas, matplotlib, seaborn, SQLAlchemy  
+
+📈 **Process**:
+- Scraped book details (title, price, rating, stock) from the website  
+- Designed SQL schema and performed queries to generate category-wise insights  
+- Created EDA visualizations to highlight trends in pricing, ratings, and availability  
+
+💡 **Insights**:
+- Most books are priced under £30  
+- 4- and 5-star books have a higher price distribution  
+- Ratings are mostly concentrated at 1 and 3 stars  
+- High stock availability across categories  
+
+✅ **Result**: Delivered an end-to-end pipeline from **data collection → SQL analysis → visualization**, demonstrating real-world data handling and storytelling skills.
 
 ## 🛠 Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
