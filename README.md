@@ -51,28 +51,28 @@
 ---
 
 <p align="center">
-  <b>✨ Thank you for visiting my profile! ✨</b><br>
-  <i>Let’s connect and create something amazing together 🚀</i>
+  <b style="font-size:28px;">✨✨ THANK YOU FOR VISITING MY PROFILE! ✨✨</b><br>
+  <i style="font-size:20px;">Let’s connect and create something amazing together 🚀</i>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="Waving Hand">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Waving Hand">
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanmay-manna" target="_blank">
-    <img src="https://svg-banners.vercel.app/api?type=glitch&text1=LinkedIn&width=250&height=60&fontSize=30&color=0A66C2" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2&logoWidth=40">
   </a>
   <a href="https://github.com/Tanmay759484" target="_blank">
-    <img src="https://svg-banners.vercel.app/api?type=glitch&text1=GitHub&width=250&height=60&fontSize=30&color=181717" alt="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=40">
   </a>
   <a href="mailto:mtanmay1044@gmail.com">
-    <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Email&width=250&height=60&fontSize=30&color=D14836" alt="Email">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836&logoWidth=40">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+connect+and+collaborate!;Open+to+exciting+Data+Science+roles!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=✨✨THANK+YOU+FOR+VISITING!✨✨;LET'S+CONNECT+AND+COLLABORATE!;OPEN+TO+EXCITING+DATA+SCIENCE+ROLES!">
 </p>
