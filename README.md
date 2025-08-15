@@ -51,7 +51,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7A500&center=true&vCenter=true&width=900&lines=✨✨+THANK+YOU+FOR+VISITING+MY+PROFILE!+✨✨" alt="Animated Thank You" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=500&pause=500&color=F7DC6F&center=true&vCenter=true&width=900&lines=THANK+YOU+FOR+VISITING+MY+PROFILE!; ;THANK+YOU+FOR+VISITING+MY+PROFILE!; " alt="THANK YOU Animation">
 </p>
 
 <p align="center">
