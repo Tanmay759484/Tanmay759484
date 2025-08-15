@@ -6,50 +6,36 @@
   🤖 AI/NLP Enthusiast · 🚀 Skilled in Python, SQL, Power BI, TensorFlow Lite, Android Development
 </p>
 
----
-
 ## 🚀 Featured Projects
 
 ---
 
 ### 🤖 FRIDAY – AI Voice Assistant
-[![FRIDAY App](https://github.com/Tanmay759484/FRIDAY-AI-Voice-Assistant-App/blob/2577ce0af98905ac336aef1ccc142f0cee64d4e1/demo-front.jpg)](https://drive.google.com/file/d/1MB0px0Ad6Fr7D4NvQJAu6gG7mB6tE9W-/view?usp=sharing)
+**Objective:** Android-based AI assistant with wake-word activation, task execution, and natural conversations.  
+**Tech:** Kotlin, Android Studio, BERT NLP, Google Cloud API, Firebase, TensorFlow Lite, AWS EC2  
 
-🔍 **Objective**: Develop an Android-based AI assistant capable of executing app tasks, retrieving information, and conversing naturally.  
-🛠 **Tools**: Kotlin, Android Studio, BERT NLP, Google Cloud API, Firebase, TensorFlow Lite, AWS EC2  
+**Highlights:**
+- Wake-word model reduces false triggers by 40%  
+- Hybrid offline/online processing for faster response  
+- Modular architecture for easy feature expansion  
 
-📈 **Process**:
-- Integrated **BERT** for intent recognition & dialogue management  
-- Implemented **wake-word detection** for hands-free activation  
-- Used **Google Cloud API** for accurate speech-to-text  
-- Stored user data securely in **Firebase** and enabled offline processing via **TensorFlow Lite**  
+**Result:** Functional AI assistant with calling, reminders, money transfer prompts, and real-time Q&A.  
 
-💡 **Insights**:
-- Offline + online hybrid approach made response time faster than pure cloud AI  
-- Wake-word model reduced accidental triggers by **40%**  
-- Modular architecture allows easy addition of new voice commands  
-
-✅ **Result**: A fully functional AI assistant with core tasks like calling, reminders, money transfer prompts, and real-time query answering.
+<img src="[demo-front.jpg](https://github.com/Tanmay759484/FRIDAY-AI-Voice-Assistant-App/blob/2577ce0af98905ac336aef1ccc142f0cee64d4e1/demo-front.jpg)" alt="FRIDAY App" width="400"/>  
+[🎥 Watch Demo](https://drive.google.com/file/d/1MB0px0Ad6Fr7D4NvQJAu6gG7mB6tE9W-/view?usp=sharing)
 
 ---
 
 ### 📚 BookMarket Analyzer – Web Scraping, SQL Insights & EDA
+**Objective:** Scrape book data, analyze via SQL, visualize with EDA.  
+**Tech:** Python, MySQL, BeautifulSoup, pandas, matplotlib, seaborn  
 
-🔍 **Objective**: Extract book data from [books.toscrape.com](https://books.toscrape.com/), generate insights through SQL queries, and visualize key patterns with EDA.  
-🛠 **Tools**: Python, Jupyter Notebook, MySQL, BeautifulSoup, pandas, matplotlib, seaborn, SQLAlchemy  
-
-📈 **Process**:
-- Scraped book details (title, price, rating, stock) from the website  
-- Designed SQL schema and performed queries to generate category-wise insights  
-- Created EDA visualizations to highlight trends in pricing, ratings, and availability  
-
-💡 **Insights**:
-- Most books are priced under £30  
-- 4- and 5-star books have a higher price distribution  
-- Ratings are mostly concentrated at 1 and 3 stars  
+**Highlights:**
+- Most books priced under £30  
+- Higher price trend for 4–5 star books  
 - High stock availability across categories  
 
-✅ **Result**: Delivered an end-to-end pipeline from **data collection → SQL analysis → visualization**, demonstrating real-world data handling and storytelling skills.
+**Result:** End-to-end pipeline from data collection to actionable insights.  
 
 ## 🛠 Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
