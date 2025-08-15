@@ -8,14 +8,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-- **[FRIDAY – AI Voice Assistant](https://github.com/Tanmay759484/FRIDAY-AI-Voice-Assistant-App)**  
-  Android-based AI assistant with wake-word detection, BERT NLP, and offline processing.
-
-- **[BookMarket Analyzer](https://github.com/Tanmay759484/BookMarket-Analyzer-Web-Scraping-EDA)**  
-  Web scraping + SQL + EDA project analyzing book pricing, ratings, and categories.
-
 ## 🚀 What I Build
 - **[FRIDAY – AI Voice Assistant App](https://github.com/Tanmay759484/FRIDAY-AI-Voice-Assistant-App)**  
   Android AI assistant with wake-word detection (TensorFlow Lite), intent recognition (BERT NLP) with AWS cloud, Google Cloud Speech-to-Text, and Firebase as android database.  
