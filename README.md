@@ -61,13 +61,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanmay-manna" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2&logoWidth=30">
   </a>
   <a href="https://github.com/Tanmay759484" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717&logoWidth=30">
   </a>
   <a href="mailto:mtanmay1044@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836&logoWidth=30">
   </a>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+connect+and+collaborate!;Open+to+exciting+Data+Science+roles!">
+</p>
