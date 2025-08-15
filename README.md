@@ -13,7 +13,7 @@
 ### 🤖 FRIDAY – AI Voice Assistant
 
 **Objective:** Android-based AI assistant with wake-word activation, task execution, and natural conversations.  
-**Tech:** Kotlin, Android Studio, BERT NLP, Google Cloud API, Firebase, TensorFlow Lite, AWS EC2  
+**Tech:** Kotlin, Python, BERT NLP, Google Cloud API, Firebase, TensorFlow Lite, AWS EC2  
 
 **Highlights:**
 - Wake-word model reduces false triggers by 40%  
