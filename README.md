@@ -8,8 +8,10 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 FRIDAY – AI Voice Assistant
 <img src="demo-front.jpg" alt="FRIDAY App" align="right" width="200" height="400" style="margin-left:10px;"/>
+
+### 🤖 FRIDAY – AI Voice Assistant
+
 **Objective:** Android-based AI assistant with wake-word activation, task execution, and natural conversations.  
 **Tech:** Kotlin, Android Studio, BERT NLP, Google Cloud API, Firebase, TensorFlow Lite, AWS EC2  
 
