@@ -6,37 +6,7 @@
   🤖 AI/NLP Enthusiast · 🚀 Skilled in Python, SQL, Power BI, TensorFlow Lite, Android Development
 </p>
 
-## 🚀 Featured Projects
-
-<img src="demo-front.jpg" alt="FRIDAY App" align="right" width="200" height="400" style="margin-left:10px;"/>
-
-### 🤖 FRIDAY – AI Voice Assistant
-
-**Objective:** Android-based AI assistant with wake-word activation, task execution, and natural conversations.  
-**Tech:** Kotlin, Python, BERT NLP, Google Cloud API, Firebase, TensorFlow Lite, AWS EC2  
-
-**Highlights:**
-- 🎯 Wake-word model reduces false triggers by **40%**
-- 🗣️ Conversational and context-aware — remembers past commands for smoother interactions
-- 🌍 Location-based responses (e.g., weather, nearby places)
-- 🤝 Understands user intent with NLP, adapting to different phrasings
-
-**Result:** Functional AI assistant with calling, reminders, money transfer prompts, and real-time Q&A.  
-
-[🎥 Watch Demo](https://drive.google.com/file/d/1MB0px0Ad6Fr7D4NvQJAu6gG7mB6tE9W-/view?usp=sharing)
-
 ---
-
-### 📚 BookMarket Analyzer – Web Scraping, SQL Insights & EDA
-**Objective:** Scrape book data, analyze via SQL, visualize with EDA.  
-**Tech:** Python, MySQL, BeautifulSoup, pandas, matplotlib, seaborn  
-
-**Highlights:**
-- 💰 Most books priced under **£30**  
-- ⭐ Higher price trend for **4–5 star** books  
-- 📦 High stock availability across categories  
-
-**Result:** End-to-end pipeline from data collection to actionable insights.  
 
 ## 🛠 Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -47,6 +17,35 @@
 ![BERT](https://img.shields.io/badge/-BERT-000000?logo=google&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<img src="demo-front.jpg" alt="FRIDAY App" align="right" width="200" height="400" style="margin-left:10px;"/>
+
+### 🤖 [FRIDAY – AI Voice Assistant](https://github.com/Tanmay759484/FRIDAY-AI-Voice-Assistant-App)
+
+Voice assistant with wake-word detection, NLP-based intent/entity extraction, and task automation (calls, payments, reminders).
+
+**Tech:** Kotlin, Python, BERT, Firebase, TensorFlow Lite  
+**Highlights:**
+- 🎯 Reduces false triggers by 40%
+- 📍 Location-aware, context-driven replies
+- 🤖 Remembers previous queries for smarter interaction  
+[🎥 Watch Demo](https://drive.google.com/file/d/1MB0px0Ad6Fr7D4NvQJAu6gG7mB6tE9W-/view?usp=sharing)
+
+---
+
+### 📚 [BookMarket Analyzer](https://github.com/Tanmay759484/BookMarket-Analyzer-Web-Scraping-EDA)
+
+Web scraping project analyzing book prices, ratings & stock trends using EDA and SQL.
+
+**Tech:** Python, BeautifulSoup, SQL, pandas, seaborn  
+**Highlights:**
+- 💰 Most books priced under **£30**
+- ⭐ High-rated books cost more
+- 📦 Strong stock across categories
 
 ---
 
