@@ -13,6 +13,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
 ![TensorFlow Lite](https://img.shields.io/badge/-TensorFlow_Lite-FF6F00?logo=tensorflow&logoColor=white)
 ![BERT](https://img.shields.io/badge/-BERT-000000?logo=google&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
@@ -24,7 +25,7 @@
 
 <img src="demo-front.jpg" alt="FRIDAY App" align="right" width="200" height="400" style="margin-left:10px;"/>
 
-### 🤖 [FRIDAY – AI Voice Assistant](https://github.com/Tanmay759484/FRIDAY-AI-Voice-Assistant-App)
+### 🤖 [FRIDAY – Android AI Voice Assistant](https://github.com/Tanmay759484/FRIDAY-AI-Voice-Assistant-App)
 
 Voice assistant with wake-word detection, NLP-based intent/entity extraction, and task automation (calls, payments, reminders).
 
